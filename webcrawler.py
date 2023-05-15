@@ -199,7 +199,69 @@ def totalFertilityRate():
     unzip_file = "totalfertilityrate"
     with zipfile.ZipFile(latest_file, 'r') as zip_ref:
         zip_ref.extractall(unzip_folder + unzip_file)
+
+def birthExpentacy():
+    url = 'http://data.un.org/Data.aspx?d=WHO&f=MEASURE_CODE%3aWHOSIS_000001'
+    driver.get(url)
+    enlace = driver.find_element(By.LINK_TEXT, 'Download')
+    enlace.click()
+    time.sleep(2)
+    enlace = driver.find_element(By.ID, 'downloadCommaLink')
+    enlace.click()
+    time.sleep(10)
+    download_folder = "/Users/adrianvargas/Documents/I Semestre 2023/BDII/ProyectoIIBDII"
+    list_of_files = glob.glob(download_folder + '/*.zip')
+    latest_file = max(list_of_files, key=os.path.getctime)
+    unzip_folder = "./data/oms"
+    unzip_file = "birthexpentacy"
+    with zipfile.ZipFile(latest_file, 'r') as zip_ref:
+        zip_ref.extractall(unzip_folder + unzip_file)
+        
+def domesticTourism():
+    url = 'http://data.un.org/DocumentData.aspx?id=477'
+    response = requests.get(url)
+    html = response.content
+    soup = BeautifulSoup(html, 'html.parser')
+    table = soup.find('table', {'class': 'xl671800'})
+    df = pd.read_html(str(table))[0]
+    df.to_csv('data/domestictourism.csv', index=False)
+ 
+def employmentTourism():
+    url = 'http://data.un.org/DocumentData.aspx?id=459'
+    response = requests.get(url)
+    html = response.content
+    soup = BeautifulSoup(html, 'html.parser')
+    table = soup.find('table', {'cellpadding': '0'})
+    df = pd.read_html(str(table))[0]
+    df.to_csv('data/employmenttourism.csv', index=False)
     
+def inboundTourism():
+    url = 'http://data.un.org/DocumentData.aspx?id=481'
+    response = requests.get(url)
+    html = response.content
+    soup = BeautifulSoup(html, 'html.parser')
+    table = soup.find('table', {'class': 'xl7031357'})
+    df = pd.read_html(str(table))[0]
+    df.to_csv('data/inboundtourism.csv', index=False)          
+
+def outboundTourism():
+    url = 'http://data.un.org/DocumentData.aspx?id=458'
+    response = requests.get(url)
+    html = response.content
+    soup = BeautifulSoup(html, 'html.parser')
+    table = soup.find('table', {'class': 'xl692773'})
+    df = pd.read_html(str(table))[0]
+    df.to_csv('data/outboundtourism.csv', index=False)
+    
+def tourismIndustries():
+    url = 'http://data.un.org/DocumentData.aspx?id=482'
+    response = requests.get(url)
+    html = response.content
+    soup = BeautifulSoup(html, 'html.parser')
+    table = soup.find('table', {'cellpadding': '0'})
+    df = pd.read_html(str(table))[0]
+    df.to_csv('data/tourismindustries.csv', index=False)
+
 def main():
     getHomicideCount()
     getHomicideSex()
@@ -214,5 +276,20 @@ def main():
     noncommunicableDeaths()
     time.sleep(10)
     injuriesDeaths()
+    time.sleep(10)
+    mediaEdad()
+    time.sleep(10)
+    totalPopulations()
+    time.sleep(10)
+    adolescentFertitlityRate1000()
+    time.sleep(10)
+    totalFertilityRate()
+    time.sleep(10)
+    birthExpentacy()
+    domesticTourism()
+    employmentTourism()
+    inboundTourism()
+    outboundTourism()
+    tourismIndustries()
     
 main()
