@@ -279,6 +279,23 @@ def infantMortalityRate():
     with zipfile.ZipFile(latest_file, 'r') as zip_ref:
         zip_ref.extractall(unzip_folder + unzip_file)
 
+def lifeExpectancyAtBirth():
+    url = 'http://data.un.org/Data.aspx?d=WHO&f=MEASURE_CODE%3aWHOSIS_000001'
+    driver.get(url)
+    enlace = driver.find_element(By.LINK_TEXT, 'Download')
+    enlace.click()
+    time.sleep(2)
+    enlace = driver.find_element(By.ID, 'downloadCommaLink')
+    enlace.click()
+    time.sleep(10)
+    download_folder = "/Users/adrianvargas/Documents/I Semestre 2023/BDII/ProyectoIIBDII"
+    list_of_files = glob.glob(download_folder + '/*.zip')
+    latest_file = max(list_of_files, key=os.path.getctime)
+    unzip_folder = "./data/oms"
+    unzip_file = "lifeexpectancyatbirth"
+    with zipfile.ZipFile(latest_file, 'r') as zip_ref:
+        zip_ref.extractall(unzip_folder + unzip_file)
+
 def main():
     getHomicideCount()
     getHomicideSex()
@@ -308,4 +325,7 @@ def main():
     inboundTourism()
     outboundTourism()
     tourismIndustries()
-infantMortalityRate()
+    infantMortalityRate()
+    time.sleep(10)
+
+lifeExpectancyAtBirth()

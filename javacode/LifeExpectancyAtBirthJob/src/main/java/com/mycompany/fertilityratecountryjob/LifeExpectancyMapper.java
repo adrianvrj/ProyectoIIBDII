@@ -9,7 +9,7 @@ import org.apache.hadoop.io.FloatWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
-public class FatalityMapper extends Mapper<Object, Text, Text, FloatWritable> {
+public class LifeExpectancyMapper extends Mapper<Object, Text, Text, FloatWritable> {
     private final Text countryAndDecade = new Text();
     private final FloatWritable count = new FloatWritable();
     private boolean isFirstLine = true;
@@ -21,7 +21,7 @@ public class FatalityMapper extends Mapper<Object, Text, Text, FloatWritable> {
         String[] fields = value.toString().split(",");
         String country = fields[0];
         String year = fields[1].substring(1,4) + "0s";
-        float porcentage = Float.parseFloat(fields[6].substring(1, 4));
+        float porcentage = Float.parseFloat(fields[3].substring(1, 3));
 
         countryAndDecade.set(country + "," + year);
         count.set(porcentage);
