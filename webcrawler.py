@@ -328,4 +328,4 @@ def main():
     infantMortalityRate()
     time.sleep(10)
 
-lifeExpectancyAtBirth()
+getHomicideSex()
