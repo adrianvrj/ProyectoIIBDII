@@ -1,0 +1,80 @@
+(blank),Female,2000s	9.0,0.0,25.0
+(blank),Female,2010s	3.0,0.0,9.0
+(blank),Male,2000s	34.0,0.0,87.0
+(blank),Male,2010s	23.0,0.0,50.0
+Australia and New Zealand,Female,2000s	69.0,11.0,136.0
+Australia and New Zealand,Female,2010s	52.0,12.0,94.0
+Australia and New Zealand,Female,2020s	74.0,74.0,74.0
+Australia and New Zealand,Male,2000s	128.0,28.0,244.0
+Australia and New Zealand,Male,2010s	91.0,20.0,160.0
+Australia and New Zealand,Male,2020s	150.0,150.0,150.0
+Central Asia,Female,2000s	193.0,10.0,416.0
+Central Asia,Male,2000s	658.0,62.0,1444.0
+Eastern Asia,Female,2000s	150.0,0.0,339.0
+Eastern Asia,Female,2010s	112.0,0.0,240.0
+Eastern Asia,Male,2000s	173.0,0.0,382.0
+Eastern Asia,Male,2010s	112.0,2.0,228.0
+Eastern Europe,Female,2000s	3927.0,15.0,10756.0
+Eastern Europe,Female,2010s	1631.0,14.0,4358.0
+Eastern Europe,Female,2020s	1098.0,26.0,2763.0
+Eastern Europe,Male,2000s	12167.0,46.0,33536.0
+Eastern Europe,Male,2010s	4556.0,29.0,12332.0
+Eastern Europe,Male,2020s	3120.0,33.0,7928.0
+Latin America and the Caribbean,Female,2000s	1525.0,0.0,4260.0
+Latin America and the Caribbean,Female,2010s	1855.0,0.0,4928.0
+Latin America and the Caribbean,Female,2020s	1825.0,46.0,3952.0
+Latin America and the Caribbean,Male,2000s	16782.0,0.0,47109.0
+Latin America and the Caribbean,Male,2010s	21731.0,0.0,58713.0
+Latin America and the Caribbean,Male,2020s	18835.0,428.0,39336.0
+Melanesia,Female,2000s	9.0,1.0,18.0
+Melanesia,Male,2000s	10.0,0.0,21.0
+Micronesia,Female,2000s	1.0,1.0,1.0
+Micronesia,Male,2000s	0.0,0.0,0.0
+Northern Africa,Female,2000s	160.0,39.0,331.0
+Northern Africa,Male,2000s	1052.0,170.0,2372.0
+Northern America,Female,2000s	1917.0,0.0,4459.0
+Northern America,Female,2010s	1773.0,0.0,3716.0
+Northern America,Male,2000s	6343.0,0.0,14573.0
+Northern America,Male,2010s	6363.0,0.0,13696.0
+Northern Europe,Female,2000s	53.0,0.0,130.0
+Northern Europe,Female,2010s	29.0,0.0,66.0
+Northern Europe,Female,2020s	17.0,10.0,25.0
+Northern Europe,Male,2000s	112.0,0.0,272.0
+Northern Europe,Male,2010s	66.0,1.0,149.0
+Northern Europe,Male,2020s	55.0,16.0,99.0
+Polynesia,Female,2000s	1.0,0.0,3.0
+Polynesia,Female,2010s	0.0,0.0,1.0
+Polynesia,Male,2000s	4.0,1.0,8.0
+Polynesia,Male,2010s	1.0,0.0,2.0
+South-eastern Asia,Female,2000s	675.0,2.0,1574.0
+South-eastern Asia,Female,2010s	223.0,5.0,474.0
+South-eastern Asia,Male,2000s	4377.0,2.0,10215.0
+South-eastern Asia,Male,2010s	1343.0,2.0,2861.0
+Southern Asia,Female,2000s	7522.0,2.0,17854.0
+Southern Asia,Female,2010s	11232.0,103.0,18731.0
+Southern Asia,Female,2020s	16383.0,16383.0,16383.0
+Southern Asia,Male,2000s	13773.0,4.0,32971.0
+Southern Asia,Male,2010s	17930.0,493.0,29072.0
+Southern Asia,Male,2020s	24267.0,24267.0,24267.0
+Southern Europe,Female,2000s	78.0,0.0,197.0
+Southern Europe,Female,2010s	74.0,1.0,179.0
+Southern Europe,Female,2020s	21.0,19.0,23.0
+Southern Europe,Male,2000s	226.0,0.0,575.0
+Southern Europe,Male,2010s	157.0,2.0,385.0
+Southern Europe,Male,2020s	44.0,20.0,66.0
+Sub-Saharan Africa,Female,2000s	1149.0,0.0,2930.0
+Sub-Saharan Africa,Female,2010s	10.0,6.0,14.0
+Sub-Saharan Africa,Male,2000s	7006.0,0.0,18265.0
+Sub-Saharan Africa,Male,2010s	17.0,11.0,24.0
+Western Asia,Female,2000s	273.0,0.0,747.0
+Western Asia,Female,2010s	180.0,0.0,474.0
+Western Asia,Female,2020s	16.0,16.0,16.0
+Western Asia,Male,2000s	1090.0,1.0,2984.0
+Western Asia,Male,2010s	848.0,5.0,2257.0
+Western Asia,Male,2020s	36.0,36.0,36.0
+Western Europe,Female,2000s	218.0,0.0,545.0
+Western Europe,Female,2010s	190.0,0.0,469.0
+Western Europe,Female,2020s	166.0,27.0,357.0
+Western Europe,Male,2000s	325.0,0.0,819.0
+Western Europe,Male,2010s	204.0,1.0,494.0
+Western Europe,Male,2020s	40.0,20.0,63.0
