@@ -327,5 +327,3 @@ def main():
     tourismIndustries()
     infantMortalityRate()
     time.sleep(10)
-
-getHomicideSex()

@@ -1,0 +1,643 @@
+"Albania",2000s,""	18.0
+"Albania",2000s,"Q1 (Poorest)"	29.0
+"Albania",2000s,"Q2"	9.0
+"Albania",2000s,"Q3"	23.0
+"Albania",2000s,"Q4"	17.0
+"Albania",2000s,"Q5 (Richest)"	13.0
+"Armenia",2000s,""	35.0
+"Armenia",2000s,"Q1 (Poorest)"	46.0
+"Armenia",2000s,"Q2"	37.0
+"Armenia",2000s,"Q3"	29.0
+"Armenia",2000s,"Q4"	39.0
+"Armenia",2000s,"Q5 (Richest)"	19.0
+"Armenia",2010s,""	18.0
+"Armenia",2010s,"Q1 (Poorest)"	21.0
+"Armenia",2010s,"Q2"	21.0
+"Armenia",2010s,"Q3"	17.0
+"Armenia",2010s,"Q4"	12.0
+"Armenia",2010s,"Q5 (Richest)"	20.0
+"Azerbaijan",2000s,""	48.0
+"Azerbaijan",2000s,"Q1 (Poorest)"	52.0
+"Azerbaijan",2000s,"Q2"	59.0
+"Azerbaijan",2000s,"Q3"	52.0
+"Azerbaijan",2000s,"Q4"	39.0
+"Azerbaijan",2000s,"Q5 (Richest)"	34.0
+"Bangladesh",1990s,""	83.0
+"Bangladesh",1990s,"Q1 (Poorest)"	100.0
+"Bangladesh",1990s,"Q2"	102.0
+"Bangladesh",1990s,"Q3"	89.0
+"Bangladesh",1990s,"Q4"	80.0
+"Bangladesh",1990s,"Q5 (Richest)"	61.0
+"Bangladesh",2000s,""	63.0
+"Bangladesh",2000s,"Q1 (Poorest)"	77.0
+"Bangladesh",2000s,"Q2"	66.0
+"Bangladesh",2000s,"Q3"	68.0
+"Bangladesh",2000s,"Q4"	52.0
+"Bangladesh",2000s,"Q5 (Richest)"	49.0
+"Benin",1990s,""	93.0
+"Benin",1990s,"Q1 (Poorest)"	119.0
+"Benin",1990s,"Q2"	111.0
+"Benin",1990s,"Q3"	105.0
+"Benin",1990s,"Q4"	103.0
+"Benin",1990s,"Q5 (Richest)"	63.0
+"Benin",2000s,""	78.0
+"Benin",2000s,"Q1 (Poorest)"	96.0
+"Benin",2000s,"Q2"	95.0
+"Benin",2000s,"Q3"	93.0
+"Benin",2000s,"Q4"	78.0
+"Benin",2000s,"Q5 (Richest)"	50.0
+"Bolivia (Plurinational State of)",1990s,""	82.0
+"Bolivia (Plurinational State of)",1990s,"Q1 (Poorest)"	111.0
+"Bolivia (Plurinational State of)",1990s,"Q2"	89.0
+"Bolivia (Plurinational State of)",1990s,"Q3"	84.0
+"Bolivia (Plurinational State of)",1990s,"Q4"	50.0
+"Bolivia (Plurinational State of)",1990s,"Q5 (Richest)"	31.0
+"Bolivia (Plurinational State of)",2000s,""	65.0
+"Bolivia (Plurinational State of)",2000s,"Q1 (Poorest)"	87.0
+"Bolivia (Plurinational State of)",2000s,"Q2"	72.0
+"Bolivia (Plurinational State of)",2000s,"Q3"	55.0
+"Bolivia (Plurinational State of)",2000s,"Q4"	43.0
+"Bolivia (Plurinational State of)",2000s,"Q5 (Richest)"	29.0
+"Brazil",1990s,""	54.0
+"Brazil",1990s,"Q1 (Poorest)"	83.0
+"Brazil",1990s,"Q2"	46.0
+"Brazil",1990s,"Q3"	31.0
+"Brazil",1990s,"Q4"	24.0
+"Brazil",1990s,"Q5 (Richest)"	27.0
+"Burkina Faso",1990s,""	100.0
+"Burkina Faso",1990s,"Q1 (Poorest)"	107.0
+"Burkina Faso",1990s,"Q2"	118.0
+"Burkina Faso",1990s,"Q3"	116.0
+"Burkina Faso",1990s,"Q4"	118.0
+"Burkina Faso",1990s,"Q5 (Richest)"	74.0
+"Burkina Faso",2000s,""	83.0
+"Burkina Faso",2000s,"Q1 (Poorest)"	97.0
+"Burkina Faso",2000s,"Q2"	108.0
+"Burkina Faso",2000s,"Q3"	81.0
+"Burkina Faso",2000s,"Q4"	93.0
+"Burkina Faso",2000s,"Q5 (Richest)"	77.0
+"Cambodia",2000s,""	84.0
+"Cambodia",2000s,"Q1 (Poorest)"	104.0
+"Cambodia",2000s,"Q2"	108.0
+"Cambodia",2000s,"Q3"	92.0
+"Cambodia",2000s,"Q4"	83.0
+"Cambodia",2000s,"Q5 (Richest)"	41.0
+"Cambodia",2010s,""	51.0
+"Cambodia",2010s,"Q1 (Poorest)"	76.0
+"Cambodia",2010s,"Q2"	70.0
+"Cambodia",2010s,"Q3"	60.0
+"Cambodia",2010s,"Q4"	38.0
+"Cambodia",2010s,"Q5 (Richest)"	22.0
+"Cameroon",1990s,""	76.0
+"Cameroon",1990s,"Q1 (Poorest)"	108.0
+"Cameroon",1990s,"Q2"	87.0
+"Cameroon",1990s,"Q3"	72.0
+"Cameroon",1990s,"Q4"	58.0
+"Cameroon",1990s,"Q5 (Richest)"	56.0
+"Cameroon",2000s,""	79.0
+"Cameroon",2000s,"Q1 (Poorest)"	100.0
+"Cameroon",2000s,"Q2"	91.0
+"Cameroon",2000s,"Q3"	83.0
+"Cameroon",2000s,"Q4"	62.0
+"Cameroon",2000s,"Q5 (Richest)"	51.0
+"Central African Republic",1990s,""	94.0
+"Central African Republic",1990s,"Q1 (Poorest)"	131.0
+"Central African Republic",1990s,"Q2"	117.0
+"Central African Republic",1990s,"Q3"	100.0
+"Central African Republic",1990s,"Q4"	97.0
+"Central African Republic",1990s,"Q5 (Richest)"	53.0
+"Chad",1990s,""	103.0
+"Chad",1990s,"Q1 (Poorest)"	80.0
+"Chad",1990s,"Q2"	136.0
+"Chad",1990s,"Q3"	119.0
+"Chad",1990s,"Q4"	115.0
+"Chad",1990s,"Q5 (Richest)"	89.0
+"Chad",2000s,""	106.0
+"Chad",2000s,"Q1 (Poorest)"	109.0
+"Chad",2000s,"Q2"	122.0
+"Chad",2000s,"Q3"	118.0
+"Chad",2000s,"Q4"	123.0
+"Chad",2000s,"Q5 (Richest)"	99.0
+"Colombia",1990s,""	30.0
+"Colombia",1990s,"Q1 (Poorest)"	41.0
+"Colombia",1990s,"Q2"	31.0
+"Colombia",1990s,"Q3"	26.0
+"Colombia",1990s,"Q4"	31.0
+"Colombia",1990s,"Q5 (Richest)"	16.0
+"Colombia",2000s,""	26.0
+"Colombia",2000s,"Q1 (Poorest)"	32.0
+"Colombia",2000s,"Q2"	27.0
+"Colombia",2000s,"Q3"	20.0
+"Colombia",2000s,"Q4"	13.0
+"Colombia",2000s,"Q5 (Richest)"	15.0
+"Colombia",2010s,""	20.0
+"Colombia",2010s,"Q1 (Poorest)"	21.0
+"Colombia",2010s,"Q2"	18.0
+"Colombia",2010s,"Q3"	17.0
+"Colombia",2010s,"Q4"	17.0
+"Colombia",2010s,"Q5 (Richest)"	12.0
+"Comoros",1990s,""	78.0
+"Comoros",1990s,"Q1 (Poorest)"	87.0
+"Comoros",1990s,"Q2"	108.0
+"Comoros",1990s,"Q3"	83.0
+"Comoros",1990s,"Q4"	62.0
+"Comoros",1990s,"Q5 (Richest)"	64.0
+"Congo",2000s,""	87.0
+"Congo",2000s,"Q1 (Poorest)"	91.0
+"Congo",2000s,"Q2"	95.0
+"Congo",2000s,"Q3"	75.0
+"Congo",2000s,"Q4"	76.0
+"Congo",2000s,"Q5 (Richest)"	55.0
+"Côte d’Ivoire",1990s,""	92.0
+"Côte d’Ivoire",1990s,"Q1 (Poorest)"	132.0
+"Côte d’Ivoire",1990s,"Q2"	108.0
+"Côte d’Ivoire",1990s,"Q3"	92.0
+"Côte d’Ivoire",1990s,"Q4"	92.0
+"Côte d’Ivoire",1990s,"Q5 (Richest)"	60.0
+"Democratic Republic of the Congo",2000s,""	94.0
+"Democratic Republic of the Congo",2000s,"Q1 (Poorest)"	112.0
+"Democratic Republic of the Congo",2000s,"Q2"	105.0
+"Democratic Republic of the Congo",2000s,"Q3"	95.0
+"Democratic Republic of the Congo",2000s,"Q4"	92.0
+"Democratic Republic of the Congo",2000s,"Q5 (Richest)"	58.0
+"Dominican Republic",1990s,""	44.0
+"Dominican Republic",1990s,"Q1 (Poorest)"	65.0
+"Dominican Republic",1990s,"Q2"	46.0
+"Dominican Republic",1990s,"Q3"	48.0
+"Dominican Republic",1990s,"Q4"	33.0
+"Dominican Republic",1990s,"Q5 (Richest)"	23.0
+"Dominican Republic",2000s,""	34.0
+"Dominican Republic",2000s,"Q1 (Poorest)"	46.0
+"Dominican Republic",2000s,"Q2"	35.0
+"Dominican Republic",2000s,"Q3"	32.0
+"Dominican Republic",2000s,"Q4"	23.0
+"Dominican Republic",2000s,"Q5 (Richest)"	22.0
+"Egypt",1990s,""	68.0
+"Egypt",1990s,"Q1 (Poorest)"	109.0
+"Egypt",1990s,"Q2"	88.0
+"Egypt",1990s,"Q3"	64.0
+"Egypt",1990s,"Q4"	50.0
+"Egypt",1990s,"Q5 (Richest)"	31.0
+"Egypt",2000s,""	41.0
+"Egypt",2000s,"Q1 (Poorest)"	58.0
+"Egypt",2000s,"Q2"	45.0
+"Egypt",2000s,"Q3"	39.0
+"Egypt",2000s,"Q4"	33.0
+"Egypt",2000s,"Q5 (Richest)"	22.0
+"Ethiopia",2000s,""	85.0
+"Ethiopia",2000s,"Q1 (Poorest)"	86.0
+"Ethiopia",2000s,"Q2"	100.0
+"Ethiopia",2000s,"Q3"	113.0
+"Ethiopia",2000s,"Q4"	100.0
+"Ethiopia",2000s,"Q5 (Richest)"	77.0
+"Ethiopia",2010s,""	64.0
+"Ethiopia",2010s,"Q1 (Poorest)"	91.0
+"Ethiopia",2010s,"Q2"	83.0
+"Ethiopia",2010s,"Q3"	60.0
+"Ethiopia",2010s,"Q4"	65.0
+"Ethiopia",2010s,"Q5 (Richest)"	60.0
+"Gabon",2000s,""	61.0
+"Gabon",2000s,"Q1 (Poorest)"	57.0
+"Gabon",2000s,"Q2"	69.0
+"Gabon",2000s,"Q3"	66.0
+"Gabon",2000s,"Q4"	72.0
+"Gabon",2000s,"Q5 (Richest)"	36.0
+"Ghana",1990s,""	64.0
+"Ghana",1990s,"Q1 (Poorest)"	74.0
+"Ghana",1990s,"Q2"	78.0
+"Ghana",1990s,"Q3"	81.0
+"Ghana",1990s,"Q4"	59.0
+"Ghana",1990s,"Q5 (Richest)"	33.0
+"Ghana",2000s,""	58.0
+"Ghana",2000s,"Q1 (Poorest)"	60.0
+"Ghana",2000s,"Q2"	54.0
+"Ghana",2000s,"Q3"	71.0
+"Ghana",2000s,"Q4"	55.0
+"Ghana",2000s,"Q5 (Richest)"	51.0
+"Guatemala",1990s,""	50.0
+"Guatemala",1990s,"Q1 (Poorest)"	57.0
+"Guatemala",1990s,"Q2"	64.0
+"Guatemala",1990s,"Q3"	53.0
+"Guatemala",1990s,"Q4"	42.0
+"Guatemala",1990s,"Q5 (Richest)"	37.0
+"Guinea",1990s,""	93.0
+"Guinea",1990s,"Q1 (Poorest)"	119.0
+"Guinea",1990s,"Q2"	128.0
+"Guinea",1990s,"Q3"	113.0
+"Guinea",1990s,"Q4"	91.0
+"Guinea",1990s,"Q5 (Richest)"	70.0
+"Guinea",2000s,""	99.0
+"Guinea",2000s,"Q1 (Poorest)"	126.0
+"Guinea",2000s,"Q2"	122.0
+"Guinea",2000s,"Q3"	114.0
+"Guinea",2000s,"Q4"	101.0
+"Guinea",2000s,"Q5 (Richest)"	68.0
+"Guyana",2000s,""	36.0
+"Guyana",2000s,"Q1 (Poorest)"	25.0
+"Guyana",2000s,"Q2"	36.0
+"Guyana",2000s,"Q3"	34.0
+"Guyana",2000s,"Q4"	42.0
+"Guyana",2000s,"Q5 (Richest)"	44.0
+"Haiti",1990s,""	84.0
+"Haiti",1990s,"Q1 (Poorest)"	93.0
+"Haiti",1990s,"Q2"	93.0
+"Haiti",1990s,"Q3"	86.0
+"Haiti",1990s,"Q4"	81.0
+"Haiti",1990s,"Q5 (Richest)"	73.0
+"Haiti",2000s,""	76.0
+"Haiti",2000s,"Q1 (Poorest)"	88.0
+"Haiti",2000s,"Q2"	72.0
+"Haiti",2000s,"Q3"	86.0
+"Haiti",2000s,"Q4"	73.0
+"Haiti",2000s,"Q5 (Richest)"	71.0
+"Honduras",2000s,""	27.0
+"Honduras",2000s,"Q1 (Poorest)"	37.0
+"Honduras",2000s,"Q2"	35.0
+"Honduras",2000s,"Q3"	27.0
+"Honduras",2000s,"Q4"	19.0
+"Honduras",2000s,"Q5 (Richest)"	18.0
+"India",1990s,""	67.0
+"India",1990s,"Q1 (Poorest)"	96.0
+"India",1990s,"Q2"	80.0
+"India",1990s,"Q3"	76.0
+"India",1990s,"Q4"	55.0
+"India",1990s,"Q5 (Richest)"	38.0
+"India",2000s,""	61.0
+"India",2000s,"Q1 (Poorest)"	82.0
+"India",2000s,"Q2"	73.0
+"India",2000s,"Q3"	66.0
+"India",2000s,"Q4"	51.0
+"India",2000s,"Q5 (Richest)"	34.0
+"Indonesia",1990s,""	57.0
+"Indonesia",1990s,"Q1 (Poorest)"	78.0
+"Indonesia",1990s,"Q2"	57.0
+"Indonesia",1990s,"Q3"	50.0
+"Indonesia",1990s,"Q4"	39.0
+"Indonesia",1990s,"Q5 (Richest)"	23.0
+"Indonesia",2000s,""	43.0
+"Indonesia",2000s,"Q1 (Poorest)"	57.0
+"Indonesia",2000s,"Q2"	48.0
+"Indonesia",2000s,"Q3"	38.0
+"Indonesia",2000s,"Q4"	32.0
+"Indonesia",2000s,"Q5 (Richest)"	21.0
+"Jordan",1990s,""	33.0
+"Jordan",1990s,"Q1 (Poorest)"	35.0
+"Jordan",1990s,"Q2"	28.0
+"Jordan",1990s,"Q3"	30.0
+"Jordan",1990s,"Q4"	26.0
+"Jordan",1990s,"Q5 (Richest)"	23.0
+"Jordan",2000s,""	22.0
+"Jordan",2000s,"Q1 (Poorest)"	26.0
+"Jordan",2000s,"Q2"	23.0
+"Jordan",2000s,"Q3"	18.0
+"Jordan",2000s,"Q4"	18.0
+"Jordan",2000s,"Q5 (Richest)"	21.0
+"Kazakhstan",1990s,""	46.0
+"Kazakhstan",1990s,"Q1 (Poorest)"	51.0
+"Kazakhstan",1990s,"Q2"	54.0
+"Kazakhstan",1990s,"Q3"	49.0
+"Kazakhstan",1990s,"Q4"	38.0
+"Kazakhstan",1990s,"Q5 (Richest)"	38.0
+"Kenya",1990s,""	62.0
+"Kenya",1990s,"Q1 (Poorest)"	92.0
+"Kenya",1990s,"Q2"	81.0
+"Kenya",1990s,"Q3"	55.0
+"Kenya",1990s,"Q4"	49.0
+"Kenya",1990s,"Q5 (Richest)"	41.0
+"Kenya",2000s,""	64.0
+"Kenya",2000s,"Q1 (Poorest)"	80.0
+"Kenya",2000s,"Q2"	69.0
+"Kenya",2000s,"Q3"	74.0
+"Kenya",2000s,"Q4"	46.0
+"Kenya",2000s,"Q5 (Richest)"	59.0
+"Kyrgyzstan",1990s,""	63.0
+"Kyrgyzstan",1990s,"Q1 (Poorest)"	82.0
+"Kyrgyzstan",1990s,"Q2"	73.0
+"Kyrgyzstan",1990s,"Q3"	66.0
+"Kyrgyzstan",1990s,"Q4"	49.0
+"Kyrgyzstan",1990s,"Q5 (Richest)"	46.0
+"Lesotho",2000s,""	80.0
+"Lesotho",2000s,"Q1 (Poorest)"	86.0
+"Lesotho",2000s,"Q2"	91.0
+"Lesotho",2000s,"Q3"	83.0
+"Lesotho",2000s,"Q4"	83.0
+"Lesotho",2000s,"Q5 (Richest)"	67.0
+"Liberia",2000s,""	86.0
+"Liberia",2000s,"Q1 (Poorest)"	99.0
+"Liberia",2000s,"Q2"	104.0
+"Liberia",2000s,"Q3"	81.0
+"Liberia",2000s,"Q4"	95.0
+"Liberia",2000s,"Q5 (Richest)"	70.0
+"Madagascar",1990s,""	95.0
+"Madagascar",1990s,"Q1 (Poorest)"	118.0
+"Madagascar",1990s,"Q2"	118.0
+"Madagascar",1990s,"Q3"	102.0
+"Madagascar",1990s,"Q4"	76.0
+"Madagascar",1990s,"Q5 (Richest)"	57.0
+"Madagascar",2000s,""	58.0
+"Madagascar",2000s,"Q1 (Poorest)"	73.0
+"Madagascar",2000s,"Q2"	74.0
+"Madagascar",2000s,"Q3"	62.0
+"Madagascar",2000s,"Q4"	48.0
+"Madagascar",2000s,"Q5 (Richest)"	34.0
+"Malawi",2000s,""	93.0
+"Malawi",2000s,"Q1 (Poorest)"	118.0
+"Malawi",2000s,"Q2"	101.0
+"Malawi",2000s,"Q3"	101.0
+"Malawi",2000s,"Q4"	107.0
+"Malawi",2000s,"Q5 (Richest)"	76.0
+"Malawi",2010s,""	71.0
+"Malawi",2010s,"Q1 (Poorest)"	69.0
+"Malawi",2010s,"Q2"	78.0
+"Malawi",2010s,"Q3"	72.0
+"Malawi",2010s,"Q4"	72.0
+"Malawi",2010s,"Q5 (Richest)"	71.0
+"Maldives",2000s,""	23.0
+"Maldives",2000s,"Q1 (Poorest)"	21.0
+"Maldives",2000s,"Q2"	25.0
+"Maldives",2000s,"Q3"	27.0
+"Maldives",2000s,"Q4"	16.0
+"Maldives",2000s,"Q5 (Richest)"	20.0
+"Mali",1990s,""	117.0
+"Mali",1990s,"Q1 (Poorest)"	151.0
+"Mali",1990s,"Q2"	146.0
+"Mali",1990s,"Q3"	138.0
+"Mali",1990s,"Q4"	128.0
+"Mali",1990s,"Q5 (Richest)"	93.0
+"Mali",2000s,""	107.0
+"Mali",2000s,"Q1 (Poorest)"	130.0
+"Mali",2000s,"Q2"	122.0
+"Mali",2000s,"Q3"	127.0
+"Mali",2000s,"Q4"	120.0
+"Mali",2000s,"Q5 (Richest)"	84.0
+"Morocco",2000s,""	40.0
+"Morocco",2000s,"Q1 (Poorest)"	62.0
+"Morocco",2000s,"Q2"	53.0
+"Morocco",2000s,"Q3"	36.0
+"Morocco",2000s,"Q4"	33.0
+"Morocco",2000s,"Q5 (Richest)"	23.0
+"Mozambique",1990s,""	131.0
+"Mozambique",1990s,"Q1 (Poorest)"	186.0
+"Mozambique",1990s,"Q2"	136.0
+"Mozambique",1990s,"Q3"	143.0
+"Mozambique",1990s,"Q4"	134.0
+"Mozambique",1990s,"Q5 (Richest)"	94.0
+"Mozambique",2000s,""	112.0
+"Mozambique",2000s,"Q1 (Poorest)"	142.0
+"Mozambique",2000s,"Q2"	147.0
+"Mozambique",2000s,"Q3"	127.0
+"Mozambique",2000s,"Q4"	106.0
+"Mozambique",2000s,"Q5 (Richest)"	71.0
+"Namibia",2000s,""	44.0
+"Namibia",2000s,"Q1 (Poorest)"	50.0
+"Namibia",2000s,"Q2"	53.0
+"Namibia",2000s,"Q3"	45.0
+"Namibia",2000s,"Q4"	45.0
+"Namibia",2000s,"Q5 (Richest)"	22.0
+"Nepal",1990s,""	80.0
+"Nepal",1990s,"Q1 (Poorest)"	95.0
+"Nepal",1990s,"Q2"	106.0
+"Nepal",1990s,"Q3"	103.0
+"Nepal",1990s,"Q4"	83.0
+"Nepal",1990s,"Q5 (Richest)"	63.0
+"Nepal",2000s,""	60.0
+"Nepal",2000s,"Q1 (Poorest)"	78.0
+"Nepal",2000s,"Q2"	74.0
+"Nepal",2000s,"Q3"	72.0
+"Nepal",2000s,"Q4"	61.0
+"Nepal",2000s,"Q5 (Richest)"	46.0
+"Nepal",2010s,""	49.0
+"Nepal",2010s,"Q1 (Poorest)"	60.0
+"Nepal",2010s,"Q2"	55.0
+"Nepal",2010s,"Q3"	55.0
+"Nepal",2010s,"Q4"	53.0
+"Nepal",2010s,"Q5 (Richest)"	32.0
+"Nicaragua",1990s,""	45.0
+"Nicaragua",1990s,"Q1 (Poorest)"	50.0
+"Nicaragua",1990s,"Q2"	53.0
+"Nicaragua",1990s,"Q3"	45.0
+"Nicaragua",1990s,"Q4"	40.0
+"Nicaragua",1990s,"Q5 (Richest)"	25.0
+"Nicaragua",2000s,""	35.0
+"Nicaragua",2000s,"Q1 (Poorest)"	50.0
+"Nicaragua",2000s,"Q2"	40.0
+"Nicaragua",2000s,"Q3"	32.0
+"Nicaragua",2000s,"Q4"	25.0
+"Nicaragua",2000s,"Q5 (Richest)"	15.0
+"Niger",1990s,""	114.0
+"Niger",1990s,"Q1 (Poorest)"	131.0
+"Niger",1990s,"Q2"	152.0
+"Niger",1990s,"Q3"	157.0
+"Niger",1990s,"Q4"	141.0
+"Niger",1990s,"Q5 (Richest)"	85.0
+"Niger",2000s,""	82.0
+"Niger",2000s,"Q1 (Poorest)"	89.0
+"Niger",2000s,"Q2"	103.0
+"Niger",2000s,"Q3"	105.0
+"Niger",2000s,"Q4"	100.0
+"Niger",2000s,"Q5 (Richest)"	66.0
+"Nigeria",1990s,""	67.0
+"Nigeria",2000s,""	93.0
+"Nigeria",2000s,"Q1 (Poorest)"	115.0
+"Nigeria",2000s,"Q2"	121.0
+"Nigeria",2000s,"Q3"	97.0
+"Nigeria",2000s,"Q4"	80.0
+"Nigeria",2000s,"Q5 (Richest)"	55.0
+"Pakistan",2000s,""	72.0
+"Pakistan",2000s,"Q1 (Poorest)"	93.0
+"Pakistan",2000s,"Q2"	87.0
+"Pakistan",2000s,"Q3"	74.0
+"Pakistan",2000s,"Q4"	66.0
+"Pakistan",2000s,"Q5 (Richest)"	52.0
+"Peru",1990s,""	53.0
+"Peru",1990s,"Q1 (Poorest)"	78.0
+"Peru",1990s,"Q2"	53.0
+"Peru",1990s,"Q3"	34.0
+"Peru",1990s,"Q4"	36.0
+"Peru",1990s,"Q5 (Richest)"	19.0
+"Peru",2000s,""	39.0
+"Peru",2000s,"Q1 (Poorest)"	55.0
+"Peru",2000s,"Q2"	45.0
+"Peru",2000s,"Q3"	31.0
+"Peru",2000s,"Q4"	24.0
+"Peru",2000s,"Q5 (Richest)"	8.0
+"Philippines",1990s,""	42.0
+"Philippines",1990s,"Q1 (Poorest)"	48.0
+"Philippines",1990s,"Q2"	39.0
+"Philippines",1990s,"Q3"	33.0
+"Philippines",1990s,"Q4"	24.0
+"Philippines",1990s,"Q5 (Richest)"	20.0
+"Philippines",2000s,""	35.0
+"Philippines",2000s,"Q1 (Poorest)"	40.0
+"Philippines",2000s,"Q2"	30.0
+"Philippines",2000s,"Q3"	24.0
+"Philippines",2000s,"Q4"	22.0
+"Philippines",2000s,"Q5 (Richest)"	16.0
+"Republic of Moldova",2000s,""	20.0
+"Republic of Moldova",2000s,"Q1 (Poorest)"	20.0
+"Republic of Moldova",2000s,"Q2"	20.0
+"Republic of Moldova",2000s,"Q3"	28.0
+"Republic of Moldova",2000s,"Q4"	19.0
+"Republic of Moldova",2000s,"Q5 (Richest)"	16.0
+"Rwanda",2000s,""	100.0
+"Rwanda",2000s,"Q1 (Poorest)"	126.0
+"Rwanda",2000s,"Q2"	114.0
+"Rwanda",2000s,"Q3"	106.0
+"Rwanda",2000s,"Q4"	120.0
+"Rwanda",2000s,"Q5 (Richest)"	80.0
+"Rwanda",2010s,""	59.0
+"Rwanda",2010s,"Q1 (Poorest)"	68.0
+"Rwanda",2010s,"Q2"	56.0
+"Rwanda",2010s,"Q3"	60.0
+"Rwanda",2010s,"Q4"	65.0
+"Rwanda",2010s,"Q5 (Richest)"	50.0
+"Sao Tome and Principe",2000s,""	42.0
+"Sao Tome and Principe",2000s,"Q1 (Poorest)"	51.0
+"Sao Tome and Principe",2000s,"Q2"	47.0
+"Sao Tome and Principe",2000s,"Q3"	39.0
+"Sao Tome and Principe",2000s,"Q4"	57.0
+"Sao Tome and Principe",2000s,"Q5 (Richest)"	26.0
+"Senegal",1990s,""	60.0
+"Senegal",1990s,"Q1 (Poorest)"	84.0
+"Senegal",1990s,"Q2"	81.0
+"Senegal",1990s,"Q3"	69.0
+"Senegal",1990s,"Q4"	58.0
+"Senegal",1990s,"Q5 (Richest)"	45.0
+"Senegal",2000s,""	61.0
+"Senegal",2000s,"Q1 (Poorest)"	88.0
+"Senegal",2000s,"Q2"	85.0
+"Senegal",2000s,"Q3"	72.0
+"Senegal",2000s,"Q4"	52.0
+"Senegal",2000s,"Q5 (Richest)"	40.0
+"Senegal",2010s,""	48.0
+"Senegal",2010s,"Q1 (Poorest)"	64.0
+"Senegal",2010s,"Q2"	52.0
+"Senegal",2010s,"Q3"	51.0
+"Senegal",2010s,"Q4"	49.0
+"Senegal",2010s,"Q5 (Richest)"	40.0
+"Sierra Leone",2000s,""	107.0
+"Sierra Leone",2000s,"Q1 (Poorest)"	148.0
+"Sierra Leone",2000s,"Q2"	101.0
+"Sierra Leone",2000s,"Q3"	106.0
+"Sierra Leone",2000s,"Q4"	99.0
+"Sierra Leone",2000s,"Q5 (Richest)"	92.0
+"South Africa",1990s,""	44.0
+"South Africa",1990s,"Q1 (Poorest)"	61.0
+"South Africa",1990s,"Q2"	51.0
+"South Africa",1990s,"Q3"	35.0
+"South Africa",1990s,"Q4"	34.0
+"South Africa",1990s,"Q5 (Richest)"	16.0
+"Swaziland",2000s,""	78.0
+"Swaziland",2000s,"Q1 (Poorest)"	85.0
+"Swaziland",2000s,"Q2"	70.0
+"Swaziland",2000s,"Q3"	65.0
+"Swaziland",2000s,"Q4"	79.0
+"Swaziland",2000s,"Q5 (Richest)"	84.0
+"Timor-Leste",2000s,""	54.0
+"Timor-Leste",2000s,"Q1 (Poorest)"	61.0
+"Timor-Leste",2000s,"Q2"	67.0
+"Timor-Leste",2000s,"Q3"	58.0
+"Timor-Leste",2000s,"Q4"	55.0
+"Timor-Leste",2000s,"Q5 (Richest)"	37.0
+"Togo",1990s,""	74.0
+"Togo",1990s,"Q1 (Poorest)"	83.0
+"Togo",1990s,"Q2"	81.0
+"Togo",1990s,"Q3"	88.0
+"Togo",1990s,"Q4"	74.0
+"Togo",1990s,"Q5 (Richest)"	65.0
+"Turkey",1990s,""	56.0
+"Turkey",1990s,"Q1 (Poorest)"	84.0
+"Turkey",1990s,"Q2"	63.0
+"Turkey",1990s,"Q3"	56.0
+"Turkey",1990s,"Q4"	45.0
+"Turkey",1990s,"Q5 (Richest)"	27.0
+"Turkey",2000s,""	38.0
+"Turkey",2000s,"Q1 (Poorest)"	62.0
+"Turkey",2000s,"Q2"	43.0
+"Turkey",2000s,"Q3"	30.0
+"Turkey",2000s,"Q4"	24.0
+"Turkey",2000s,"Q5 (Richest)"	17.0
+"Uganda",1990s,""	80.0
+"Uganda",1990s,"Q1 (Poorest)"	109.0
+"Uganda",1990s,"Q2"	78.0
+"Uganda",1990s,"Q3"	90.0
+"Uganda",1990s,"Q4"	85.0
+"Uganda",1990s,"Q5 (Richest)"	63.0
+"Uganda",2000s,""	80.0
+"Uganda",2000s,"Q1 (Poorest)"	98.0
+"Uganda",2000s,"Q2"	89.0
+"Uganda",2000s,"Q3"	84.0
+"Uganda",2000s,"Q4"	76.0
+"Uganda",2000s,"Q5 (Richest)"	62.0
+"Ukraine",2000s,""	15.0
+"Ukraine",2000s,"Q1 (Poorest)"	18.0
+"Ukraine",2000s,"Q2"	14.0
+"Ukraine",2000s,"Q3"	19.0
+"Ukraine",2000s,"Q4"	23.0
+"Ukraine",2000s,"Q5 (Richest)"	8.0
+"United Republic of Tanzania",1990s,""	97.0
+"United Republic of Tanzania",1990s,"Q1 (Poorest)"	100.0
+"United Republic of Tanzania",1990s,"Q2"	112.0
+"United Republic of Tanzania",1990s,"Q3"	105.0
+"United Republic of Tanzania",1990s,"Q4"	104.0
+"United Republic of Tanzania",1990s,"Q5 (Richest)"	78.0
+"United Republic of Tanzania",2000s,""	79.0
+"United Republic of Tanzania",2000s,"Q1 (Poorest)"	87.0
+"United Republic of Tanzania",2000s,"Q2"	97.0
+"United Republic of Tanzania",2000s,"Q3"	87.0
+"United Republic of Tanzania",2000s,"Q4"	69.0
+"United Republic of Tanzania",2000s,"Q5 (Richest)"	64.0
+"United Republic of Tanzania",2010s,""	58.0
+"United Republic of Tanzania",2010s,"Q1 (Poorest)"	61.0
+"United Republic of Tanzania",2010s,"Q2"	58.0
+"United Republic of Tanzania",2010s,"Q3"	57.0
+"United Republic of Tanzania",2010s,"Q4"	59.0
+"United Republic of Tanzania",2010s,"Q5 (Richest)"	62.0
+"Uzbekistan",1990s,""	43.0
+"Uzbekistan",1990s,"Q1 (Poorest)"	54.0
+"Uzbekistan",1990s,"Q2"	40.0
+"Uzbekistan",1990s,"Q3"	36.0
+"Uzbekistan",1990s,"Q4"	39.0
+"Uzbekistan",1990s,"Q5 (Richest)"	45.0
+"Viet Nam",1990s,""	35.0
+"Viet Nam",1990s,"Q1 (Poorest)"	43.0
+"Viet Nam",1990s,"Q2"	43.0
+"Viet Nam",1990s,"Q3"	35.0
+"Viet Nam",1990s,"Q4"	27.0
+"Viet Nam",1990s,"Q5 (Richest)"	17.0
+"Viet Nam",2000s,""	26.0
+"Viet Nam",2000s,"Q1 (Poorest)"	39.0
+"Viet Nam",2000s,"Q2"	28.0
+"Viet Nam",2000s,"Q3"	19.0
+"Viet Nam",2000s,"Q4"	15.0
+"Viet Nam",2000s,"Q5 (Richest)"	13.0
+"Zambia",1990s,""	107.0
+"Zambia",1990s,"Q1 (Poorest)"	123.0
+"Zambia",1990s,"Q2"	131.0
+"Zambia",1990s,"Q3"	105.0
+"Zambia",1990s,"Q4"	104.0
+"Zambia",1990s,"Q5 (Richest)"	69.0
+"Zambia",2000s,""	85.0
+"Zambia",2000s,"Q1 (Poorest)"	91.0
+"Zambia",2000s,"Q2"	93.0
+"Zambia",2000s,"Q3"	101.0
+"Zambia",2000s,"Q4"	79.0
+"Zambia",2000s,"Q5 (Richest)"	65.0
+"Zimbabwe",1990s,""	55.0
+"Zimbabwe",1990s,"Q1 (Poorest)"	55.0
+"Zimbabwe",1990s,"Q2"	56.0
+"Zimbabwe",1990s,"Q3"	57.0
+"Zimbabwe",1990s,"Q4"	63.0
+"Zimbabwe",1990s,"Q5 (Richest)"	41.0
+"Zimbabwe",2000s,""	47.0
+"Zimbabwe",2000s,"Q1 (Poorest)"	48.0
+"Zimbabwe",2000s,"Q2"	59.0
+"Zimbabwe",2000s,"Q3"	48.0
+"Zimbabwe",2000s,"Q4"	45.0
+"Zimbabwe",2000s,"Q5 (Richest)"	45.0
+"Zimbabwe",2010s,""	54.0
+"Zimbabwe",2010s,"Q1 (Poorest)"	55.0
+"Zimbabwe",2010s,"Q2"	61.0
+"Zimbabwe",2010s,"Q3"	57.0
+"Zimbabwe",2010s,"Q4"	49.0
+"Zimbabwe",2010s,"Q5 (Richest)"	47.0
