@@ -4,34 +4,28 @@
  */
 package com.mycompany.porcentajemuertesporpaisxaniojob;
 
+import java.io.IOException;
 import org.apache.hadoop.io.FloatWritable;
-import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 public class PorcentajeMuertesMapper extends Mapper<Object, Text, Text, FloatWritable> {
-    private Text countryYear = new Text();
-    private FloatWritable deathCount = new FloatWritable();
-
+    private final Text countryAndYear = new Text();
+    private final FloatWritable count = new FloatWritable();
+    private boolean isFirstLine = true;
     public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
-        // Parsear la línea del archivo de entrada
+        if (isFirstLine) {
+            isFirstLine = false;
+            return; // Skip the first line
+        }
         String[] fields = value.toString().split(",");
-
-        // Obtener los campos relevantes (país, año, edad, causa de muerte, total de muertes)
         String country = fields[0];
         String year = fields[1];
-        int age = Integer.parseInt(fields[2]);
-        String cause = fields[3];
-        int deaths = Integer.parseInt(fields[4]);
+        float death = Float.parseFloat(fields[2].substring(1, 4));
 
-        // Filtrar por causa de muerte (cáncer) y rango de edad (30 a 70)
-        if (cause.equalsIgnoreCase("cancer") && age >= 30 && age <= 70) {
-            // Crear la clave compuesta por país y año
-            countryYear.set(country + "_" + year);
-            deathCount.set(deaths);
+        countryAndYear.set(country + "," + year);
+        count.set(death);
 
-            // Emitir el par clave-valor (countryYear, deathCount)
-            context.write(countryYear, deathCount);
-        }
+        context.write(countryAndYear, count);
     }
 }
